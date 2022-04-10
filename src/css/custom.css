@@ -37,3 +37,10 @@
 [data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+.footer__col{
+  text-align: center;
+}
+.color-v{
+  color: red;
+}
