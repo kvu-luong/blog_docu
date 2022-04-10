@@ -51,3 +51,7 @@ https://undraw.co/search
 ### Main color
 
 #0F8
+
+### Setup Api
+
+* Install axios and query-string

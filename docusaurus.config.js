@@ -16,6 +16,14 @@ const config = {
   organizationName: 'kvu-luong', // Usually your GitHub org/user name.
   projectName: 'blog_docu', // Usually your repo name.
 
+  plugins: [
+    [
+      "docusaurus2-dotenv",
+      {
+        systemvars: true,
+      },
+    ]
+  ],
   presets: [
     [
       'classic',
